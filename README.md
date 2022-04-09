@@ -1,5 +1,5 @@
 # 3-python-scripts
-Repozytorium zawiera 3 proste skrypty napisane kilka lat temu:
+Repozytorium zawiera 3 proste skrypty:
 
 * do rozwiązywania równań liniowych
 * grę Wisielec
